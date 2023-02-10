@@ -1,6 +1,6 @@
 baseURL = 'http://dataascode.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Data as code'
 theme = "hugo-book"
 contentDir = "content/en"
 
