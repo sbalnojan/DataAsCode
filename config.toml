@@ -10,3 +10,4 @@ contentDir = "content/en"
 [params]
   BookToC = true
   BookSection = 'docs'
+  BookMenuBundle = '/menu'
