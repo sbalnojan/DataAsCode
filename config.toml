@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-book"
 contentDir = "content/en"
+
+[params]
+  BookToC = true
+  BookSection = 'docs'
