@@ -4,6 +4,9 @@ title = 'Data as code'
 theme = "hugo-book"
 contentDir = "content/en"
 
+[markup.tableOfContents]
+  startLevel = 1
+
 [params]
   BookToC = true
   BookSection = 'docs'
